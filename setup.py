@@ -18,7 +18,7 @@ requires = [
     # ashlar/utils.py for details. They are un-vendoring it soon, so we're
     # pinning our dependency to the exact latest version.
     # FIXME Release the pin once all the issues are resolved.
-    'scikit-image==0.17.2',
+    'scikit-image==0.18.3',
     'scikit-learn>=0.21.1',
     'blessed>=1.17',
 ]
